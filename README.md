@@ -22,12 +22,16 @@ I am a 4. grade student at Kocaeli University. I love the entire process of soft
   <a href="https://tr.linkedin.com/in/hilal-nisanci-46695b1b7?trk=public_profile_browsemap"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
   <a href="https://instagram.com/thelalsblog?igshid=YmMyMTA2M2Y="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
 </h4>
--
-<h4 >
+|
+<h5 >
 <li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li>
+</h5>
+
+<h4 >
+💼 Technical Skills
 </h4>
-
-
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 <!--
 **hilalfnisanci/hilalfnisanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
