@@ -4,12 +4,16 @@
 
 </p>
 
-<h3 align=”center”>
+<h4 align="center">
 Hi there, I’m Hilal 👋
-</h3>
-<h3 align=”center”>
+</h4>
+<h3 align="center">
 I'm a Software Developer 💻!
 </h3>
+
+<h6 align="center">
+I am a 4.grade student at Kocaeli University.
+</h6>
 
 <!--
 **hilalfnisanci/hilalfnisanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
