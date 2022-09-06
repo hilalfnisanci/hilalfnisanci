@@ -11,9 +11,23 @@ Hi there, I’m Hilal 👋
 I'm a Software Developer 💻!
 </h3>
 
-<h6 align="center">
-I am a 4.grade student at Kocaeli University.
+<h6>
+I am a 4. grade student at Kocaeli University. I love the entire process of software developing. I like to be interested in sports and art fields and spend time in these areas. 
 </h6>
+
+<h4 >
+🤝 Connect with me:
+</h4>
+<h4 >
+  <a href="www.linkedin.com/in/hilal-nisanci-46695b1b7"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
+  <a href="https://instagram.com/thelalsblog?igshid=YmMyMTA2M2Y="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
+</h4>
+-
+<h4 >
+<li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li>
+</h4>
+
+
 
 <!--
 **hilalfnisanci/hilalfnisanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
