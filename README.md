@@ -19,7 +19,7 @@ I am a 4. grade student at Kocaeli University. I love the entire process of soft
 🤝 Connect with me:
 </h4>
 <h4 >
-  <a href="www.linkedin.com/in/hilal-nisanci-46695b1b7"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
+  <a href="https://tr.linkedin.com/in/hilal-nisanci-46695b1b7?trk=public_profile_browsemap"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
   <a href="https://instagram.com/thelalsblog?igshid=YmMyMTA2M2Y="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
 </h4>
 -
