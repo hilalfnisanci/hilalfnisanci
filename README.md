@@ -1,8 +1,16 @@
 <p align="center">
 <img width="2000" height="200" src="https://user-images.githubusercontent.com/58916771/188623966-a4028c8a-994b-439b-bc76-6c3854597294.png" alt="my banner">
+
+
 </p>
 
-## Hi there, I'm Hilal 👋
+<h3 align=”center”>
+Hi there, I’m Hilal 👋
+</h3>
+<h3 align=”center”>
+I'm a Software Developer 💻!
+</h3>
+
 <!--
 **hilalfnisanci/hilalfnisanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
