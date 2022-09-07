@@ -47,6 +47,15 @@ I am a 4. grade student at Kocaeli University. I love the entire process of soft
 </h6>
 
 <h4 >
+📝 Latest Blog Posts
+</h4>
+<h3 >
+
+<a href="https://www.kampustenevar.com/kategori-bilim-ve-teknoloji/uzayda-bir-otele-rezervasyon-yaptirmak-" target=”_blank” rel=”noreferrer”>Uzayda Bir Otele Rezervasyon Yaptırmak</a>
+
+</h3>
+
+<h4 >
 📈 GitHub Stats
 </h4>
 
