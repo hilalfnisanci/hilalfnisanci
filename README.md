@@ -15,9 +15,9 @@ I'm a Software Developer 💻!
 I am a 4. grade student at Kocaeli University. I love the entire process of software developing. I like to be interested in sports and art fields and spend time in these areas. 
 </h6>
 
-<h4 >
+<h2 >
 🤝 Connect with me:
-</h4>
+</h2>
 <h4 >
   <a href="https://tr.linkedin.com/in/hilal-nisanci-46695b1b7?trk=public_profile_browsemap"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
   <a href="https://instagram.com/thelalsblog?igshid=YmMyMTA2M2Y="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
@@ -27,9 +27,9 @@ I am a 4. grade student at Kocaeli University. I love the entire process of soft
 <li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li>
 </h5>
 
-<h4 >
+<h2 >
 💼 Technical Skills
-</h4>
+</h2>
 <h6>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -46,18 +46,18 @@ I am a 4. grade student at Kocaeli University. I love the entire process of soft
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
 </h6>
 
-<h4 >
+<h2 >
 📝 Latest Blog Posts
-</h4>
+</h2>
 <h5 >
 
 <a href="https://www.kampustenevar.com/kategori-bilim-ve-teknoloji/uzayda-bir-otele-rezervasyon-yaptirmak-" target=”_blank” rel=”noreferrer”>Uzayda Bir Otele Rezervasyon Yaptırmak</a>
 
 </h5>
 
-<h4 >
+<h2 >
 📈 GitHub Stats
-</h4>
+</h2>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hilalfnisanci)](https://github.com/hilalfnisanci)
 
