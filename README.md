@@ -12,7 +12,7 @@ I'm a Software Developer 💻!
 </h3>
 
 <h6>
-I am a 4. grade student at Kocaeli University. I love the entire process of software developing. I like to be interested in sports and art fields and spend time in these areas. 
+I am a 4. grade student at Kocaeli University. I love the entire process of software developing. I enjoy to be interested in sports and art fields and spend time in these areas. 
 </h6>
 
 <h2 >
