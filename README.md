@@ -12,7 +12,7 @@ I'm a Software Developer 💻!
 </h3>
 
 <h6>
-I am a 4. grade student at Kocaeli University. I love the entire process of software developing. I enjoy to be interested in sports and art fields and spend time in these areas. 
+Hello, I'm Hilal. I am someone who loves research, can work harmoniously within a team, takes responsibility, and has strong communication skills. Outside of work, I enjoy engaging in artistic activities and exploring new places. This not only nurtures my creativity but also broadens my perspective. Throughout my education, I have been involved in various projects. In different internship experiences, I successfully managed both individual and team projects. 
 </h6>
 
 <h2 >
