@@ -57,14 +57,6 @@ Hello, I'm Hilal. I am someone who loves research, can work harmoniously within 
 <a href="https://www.kampustenevar.com/kategori-bilim-ve-teknoloji/uzayda-bir-otele-rezervasyon-yaptirmak-" target=”_blank” rel=”noreferrer”>Uzayda Bir Otele Rezervasyon Yaptırmak</a>
 </ul>
 </h5>
-
-<h2 >
-📈 GitHub Stats
-</h2>
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hilalfnisanci)](https://github.com/hilalfnisanci)
-
-
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalfnisanci&layout=compact)](https://github.com/hilalfnisanci)
