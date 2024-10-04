@@ -12,7 +12,7 @@ I'm a Software Developer 💻!
 </h3>
 
 <h6>
-Hello, I'm Hilal. I am someone who loves research, can work harmoniously within a team, takes responsibility, and has strong communication skills. Outside of work, I enjoy engaging in artistic activities and exploring new places. This not only nurtures my creativity but also broadens my perspective. Throughout my education, I have been involved in various projects. In different internship experiences, I successfully managed both individual and team projects. 
+I’m a passionate software developer with a keen interest in creating innovative solutions. Continuously working on diverse projects to sharpen my skills, I find excitement in every challenge this field presents. My curiosity and enthusiasm drive me to keep learning and growing in the tech world.
 </h6>
 
 <h2 >
@@ -27,34 +27,6 @@ Hello, I'm Hilal. I am someone who loves research, can work harmoniously within 
 <li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li>
 </h5>
 
-<h2 >
-💼 Technical Skills
-</h2>
-<h6>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt=".NEt" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-</h6>
-
-<h6>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-  <img alt="Mosquitto" src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
-  
-</h6>
-
-<h2 >
-📝 Latest Blog Posts
-</h2>
-<h5 >
-<ul>
-<a href="https://www.kampustenevar.com/kategori-bilim-ve-teknoloji/uzayda-bir-otele-rezervasyon-yaptirmak-" target=”_blank” rel=”noreferrer”>Uzayda Bir Otele Rezervasyon Yaptırmak</a>
-</ul>
-</h5>
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalfnisanci&layout=compact)](https://github.com/hilalfnisanci)
