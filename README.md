@@ -8,7 +8,7 @@
 Hi there, I’m Hilal 👋
 </h4>
 <h3 align="center">
-I'm a Software Developer 💻!
+I'm a Software Developer 💻
 </h3>
 
 <h6>
@@ -16,13 +16,14 @@ I’m a passionate software developer with a keen interest in creating innovativ
 </h6>
 
 <h2 >
-🤝 Connect with me:
+🤝 Connect with me
 </h2>
 <h4 >
   <a href="https://tr.linkedin.com/in/hilal-nisanci-46695b1b7?trk=public_profile_browsemap"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
   <a href="https://instagram.com/thelalsblog?igshid=YmMyMTA2M2Y="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Hilal Nisanci | Instagram" width="21px"/></a>
+  <a href="https://hilalnisanci.framer.website/"><img align="left" src="" alt="Hilal Nisanci | Framer Website" width="21px"/></a>
 </h4>
-|
+
 <h5 >
 <li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li>
 </h5>
