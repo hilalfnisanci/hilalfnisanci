@@ -4,29 +4,33 @@
 
 </p>
 
-<h4 align="center">
-Hi there, I’m Hilal 👋
-</h4>
-<h3 align="center">
-I'm a Software Developer 💻
-</h3>
+# Hi there, I'm Hilal 👋
 
-<h6>
-I’m a passionate software developer with a keen interest in creating innovative solutions. Continuously working on diverse projects to sharpen my skills, I find excitement in every challenge this field presents. My curiosity and enthusiasm drive me to keep learning and growing in the tech world.
-</h6>
+## Full-Stack Software Engineer | AI & LLM Integration
 
-<h2 >
-🤝 Connect with me
-</h2>
-<h4 >
-  <a href="https://tr.linkedin.com/in/hilal-nisanci-46695b1b7?trk=public_profile_browsemap"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hilal Nisanci | LinkedIn" width="21px"/></a>
-  <a href="https://instagram.com/thelalsblog?igshid=YmMyMTA2M2Y="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Hilal Nisanci | Instagram" width="21px"/></a>
-</h4>
-<br>
-<h5 >
-<h4>Here is my website: <a href="https://hilalnisanci.framer.website/" target="_blank">hilalnisanci.framer.website</a></h4>
+I'm a founding engineer at [Specstra](https://specstra.ai/), architecting multi-model LLM systems and 
+enterprise features. I'm passionate about shipping production-grade AI applications 
+with strong engineering fundamentals.
 
-<li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li>
-</h5>
+### 🛠️ What I Work With
+- **Frontend:** TypeScript, React 19, Next.js 15
+- **Backend:** Node.js, PostgreSQL, REST APIs
+- **AI/LLM:** OpenAI GPT models, Anthropic Claude, Google Gemini, Vercel AI SDK
+- **DevOps:** Docker, Cloudflare R2, OAuth integrations
+
+### 🚀 Recent Projects
+- **Generative AI Codebase** - Open-source AI applications for sentiment analysis, 
+  summarization, and more
+- **Real-Time Clothing Recommendation System** - ML-powered outfit recommendations 
+  using YOLO and weather integration (TUBITAK 2209-A supported)
+
+### 📚 Published Research
+- Co-authored research on optical metrology published in JEOS (2024) [[Publication]](https://jeos.edpsciences.org/articles/jeos/pdf/2024/01/jeos20230044.pdf)
+
+### 💬 Let's Connect
+- **LinkedIn:** [linkedin.com/in/hilal-nisanci](https://linkedin.com/in/hilal-nisanci)
+- **Email:** hilalfnisanci@gmail.com
+
+Feel free to reach out for collaborations, discussions, or feedback!
 
 
